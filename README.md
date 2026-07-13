@@ -1,115 +1,108 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="KB Manilla — AI Engineer, Full-Stack Developer, Cybersecurity Enthusiast" width="100%" />
+  <img src="assets/banner.svg" alt="Khristopher Ben Manilla — Full-Stack Software Engineer" width="100%" />
 </div>
 
 <div align="center">
-  <sub>4th Year CS Student, LPU–Cavite &nbsp;·&nbsp; Intern @ Startup Lab PH &nbsp;·&nbsp; Tanza, Cavite, PH</sub>
+  <sub>Fourth-Year BS Computer Science · Software Engineering Intern · Cavite, Philippines</sub>
 </div>
 
-<br/>
+<br />
 
-I build practical, production-oriented software across full-stack web development, AI integration, and cybersecurity — systems designed to solve real problems, not showcase isolated coding exercises.
+I build secure, documented, and testable full-stack applications with **React, TypeScript, Laravel, Python, and PostgreSQL**. My strongest work combines product requirements, role-based security, automated validation, and practical AI/ML workflows.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<div align="center">
 
-## Current Focus
+[Portfolio](https://kbmanilla06githubio.vercel.app) · [TimeForge Case Study](https://kbmanilla06githubio.vercel.app/projects/timeforge) · [Résumé](https://kbmanilla06githubio.vercel.app/Khristopher_Ben_Manilla_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/)
 
-- Full-Stack Web Development
-- Artificial Intelligence Integration
-- SaaS Application Development
-- Cybersecurity Research
-- Workforce Management Systems
-- Event Marketplace Platforms
-- System Architecture & Database Design
-- AI-Powered Intrusion Detection Systems (IDS)
-
-**Exploring next:** Machine Learning for Cybersecurity · Local LLMs · Genetic Algorithms · DevOps best practices
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Featured Projects
-
-### [TimeForge](https://github.com/kbmanilla06/TimeForge) — Flagship Project
-
-AI-powered workforce performance management system: time tracking, smart timesheets with supervisor approval, daily scrum reporting, KPI management, payroll preparation with PDF/Excel exports, management dashboards, and on-demand AI insights — built as a feature-complete MVP across 14 tracked sprints.
+## Engineering Profile
 
 | | |
 |---|---|
-| **Problem** | Organizations tracking attendance, updates, and payroll across spreadsheets and chat apps end up with fragmented workflows and no real visibility into productivity. |
-| **Stack** | Laravel 13 (PHP, PostgreSQL, Sanctum) · React 19 + TypeScript + Vite + Tailwind + React Router · Docker · GitHub Actions |
-| **Status** | Active development |
+| **Primary focus** | Full-stack software engineering |
+| **Supporting strengths** | Application security · Applied AI/ML |
+| **Current role** | Software Engineering Intern at StartupLab Business Center & AI Consulting Services OPC |
+| **Education** | BS Computer Science, Lyceum of the Philippines University–Cavite |
+| **Academic standing** | Dean’s List awardee for three consecutive academic years |
+
+I translate requirements into maintainable systems and use AI-assisted development as an engineering tool—not a substitute for architecture, review, testing, or ownership.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Flagship Project
+
+### [TimeForge](https://github.com/kbmanilla06/TimeForge) — Workforce Operations Platform
+
+A full-stack workforce performance system covering time tracking, approval workflows, KPIs, payroll preparation, reporting, onboarding, protected attachments, and auditable workforce insights.
+
+| Engineering evidence | Verified result |
+|---|---|
+| Automated validation | **717 tests** — 370 backend + 347 frontend |
+| Authorization | **4 roles** enforced server-side through policies and middleware |
+| Delivery | Stakeholder-led implementation with documented sprint history |
+| Operations | Docker, GitHub Actions, setup, QA, deployment, backup, and user guides |
+| Insight architecture | **7 deterministic capabilities** with no external model calls |
 
 <details>
-<summary><b>Engineering detail</b> — four server-enforced roles, 211 backend + 186 frontend tests, AI with zero external calls</summary>
-<br/>
+<summary><b>Architecture, security, and tradeoffs</b></summary>
+<br />
 
-Every role boundary (Admin/HR/Supervisor/Employee) is enforced server-side via policies and middleware, backed by 211 PHPUnit tests and 186 Vitest tests. The seven AI insight features (summaries, blocker detection, KPI analysis, payroll validation) run on a provider-agnostic architecture currently backed by a local deterministic stub — zero external API calls, zero credentials, and every output is append-only with a full source-data audit snapshot, explicitly labeled AI-generated.
+The React and TypeScript SPA communicates with a Laravel REST API backed by PostgreSQL and protected file storage. Interface-level role awareness improves usability, while server-side policies and middleware remain the authorization source of truth.
+
+The current insight engine is deterministic and local. This keeps sensitive workforce data out of third-party model calls while preserving an upgrade path to a future provider. Deliberate MVP boundaries—including single-organization scope, synchronous mail, and deferred malware scanning—are documented instead of hidden.
+
 </details>
 
-<br/>
+**Stack:** `React` `TypeScript` `Laravel` `PHP` `PostgreSQL` `Docker` `GitHub Actions`
+
+[Read the engineering case study →](https://kbmanilla06githubio.vercel.app/projects/timeforge)
+
+<br />
 
 ### [Customer Churn Prediction](https://github.com/kbmanilla06/customer-churn-prediction)
 
-End-to-end ML pipeline predicting telecom customer churn, with a Streamlit dashboard for model comparison and real-time prediction.
+An end-to-end machine-learning pipeline and Streamlit dashboard for identifying telecom customers at risk of churn. SMOTE is applied inside stratified cross-validation to avoid data leakage, with Logistic Regression, Random Forest, and XGBoost compared using F1 and ROC-AUC.
 
-| | |
-|---|---|
-| **Problem** | Retaining a customer is cheaper than acquiring one — this identifies at-risk customers before they leave. |
-| **Stack** | Python · Pandas · Scikit-learn · XGBoost · Streamlit |
-| **Status** | Completed / portfolio project |
+**Stack:** `Python` `Scikit-learn` `XGBoost` `Streamlit`
 
-<details>
-<summary><b>Engineering detail</b> — SMOTE applied inside the CV loop to prevent data leakage</summary>
-<br/>
+<br />
 
-Class imbalance is handled with SMOTE oversampling combined with `class_weight="balanced"`. Critically, SMOTE runs *inside* a stratified 5-fold cross-validation loop via `imblearn.Pipeline`, not before the train/test split — preventing synthetic samples from leaking across folds. Logistic Regression, Random Forest, and XGBoost are compared on F1 (primary, given the asymmetric cost of missed churners) and ROC-AUC (secondary).
-</details>
+### [NLTKBot](https://github.com/Jassim3nidad/NLTKBot)
 
-<br/>
+A four-person academic NLP project combining preprocessing, fuzzy matching, sentiment analysis, keyword extraction, and a Flask API across web and command-line interfaces.
 
-### ML-Enhanced Intrusion Detection System — Research Prototype
-
-Adaptive IDS combining Random Forest classification with Genetic Algorithm–based feature selection, aimed at improving detection of novel attacks while reducing false positives versus traditional signature-based IDS.
-
-`Python` · `Scikit-learn` · `Random Forest` · `Genetic Algorithms` — *private research repository*
-
-### Vote Secure — Favorite Project
-
-Secure digital voting platform focused on authenticated, tamper-resistant elections — one verified ballot per voter, with vote validation preserving election integrity.
-
-`Python` · SQL · Authentication system — *private repository, completed academic project*
-
-### Cybercrime Expert System
-
-Rule-based expert system with an inference engine and knowledge base that helps users identify cybercrime incidents and recommends appropriate legal/technical responses.
-
-`Python` · Rule-based expert system · SQL — *private repository, completed academic project*
+**Stack:** `Python` `NLTK` `Flask` `NLP`
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Capability Matrix
+## Technical Toolkit
 
-*(bold = primary daily-use, plain = comfortable, `code` = actively learning)*
-
-| Category | Stack |
+| Area | Tools and evidence |
 |---|---|
-| **Languages** | **Python**, **TypeScript**, **JavaScript**, PHP, SQL |
-| **Frameworks** | **Next.js**, **React**, NestJS, Laravel, Tailwind CSS, ShadCN UI |
-| **Libraries** | React Hook Form, Zod, Zustand, TanStack Table, Recharts |
-| **Databases** | **PostgreSQL**, Supabase Database |
-| **AI Tools** | **OpenAI GPT**, **Claude / Claude Code**, NotebookLM, Bolt |
-| **Machine Learning** | **Scikit-learn**, Random Forest, `Genetic Algorithms`, `Local LLMs` |
-| **Cybersecurity** | RBAC, Row-Level Security, OTP Authentication, `Intrusion Detection Systems`, `AI-Based Network Security` |
-| **DevOps / Cloud** | Docker, GitHub Actions, Vercel, Supabase |
-| **Tooling** | VS Code, Git, GitHub, npm, Composer, Artisan CLI, Postman, Figma |
+| **Frontend** | React, TypeScript, Next.js, Vite, responsive UI, component testing |
+| **Backend** | Laravel, PHP, REST APIs, policies, middleware, validation |
+| **Data** | PostgreSQL, SQL, schema design, migrations, reporting queries |
+| **Security** | Server-enforced RBAC, rate limiting, protected files, auditability |
+| **AI / ML** | Python, Scikit-learn, XGBoost, NLTK, reproducible evaluation |
+| **Delivery** | Git, Docker Compose, GitHub Actions, Vercel, operational documentation |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Certifications & Development
+
+- **Networking Basics** — Cisco Networking Academy, May 2026
+- **Introduction to Modern AI** — Cisco Networking Academy, February 2026
+- **Python Essentials 1 & 2** — Cisco Networking Academy, January & June 2024
+- **IoT Bootcamp** — ACube Technologies Inc.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Engineering Principles
 
-<img src="assets/principles.svg" width="100%" alt="Architecture: modular, scalable systems with clear separation of concerns. Security: built in from the start. Maintainability: clean, documented, testable code." />
-
-Before writing code, I focus on understanding the business problem and planning how components interact. Good software should be easy to extend, simple to maintain, and reliable enough to support future growth — not showcase unnecessary complexity.
+<img src="assets/principles.svg" width="100%" alt="Architecture: requirements before implementation. Security: enforced at system boundaries. Validation: tests and documentation are delivery work." />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -117,8 +110,8 @@ Before writing code, I focus on understanding the business problem and planning 
 
 <div align="center">
 
-[GitHub](https://github.com/kbmanilla06) &nbsp;·&nbsp; [Portfolio](https://kbmanilla06.github.io/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/) &nbsp;·&nbsp; [Email](mailto:kbmanilla06@gmail.com)
+[Email](mailto:kbmanilla06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/) · [Portfolio](https://kbmanilla06githubio.vercel.app) · [GitHub](https://github.com/kbmanilla06)
 
-<sub>Open to full-time and part-time roles in AI engineering, full-stack development, and cybersecurity — also open to research and collaboration.</sub>
+<sub>Open to software engineering, full-stack, AI/ML, and application-security opportunities.</sub>
 
 </div>

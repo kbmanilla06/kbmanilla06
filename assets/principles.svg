@@ -1,31 +1,36 @@
-<svg viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles: Architecture, Security, Maintainability">
+<svg viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles: Requirements, Security, Validation">
   <defs>
-    <pattern id="pgrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="1"/>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2a231d"/>
+      <stop offset="1" stop-color="#14100c"/>
+    </linearGradient>
+    <pattern id="texture" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M0 19H38M19 0V38" stroke="#d3ab63" stroke-opacity=".025"/>
     </pattern>
   </defs>
 
-  <rect x="2" y="2" width="1196" height="236" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
-  <rect x="2" y="2" width="1196" height="236" rx="8" fill="url(#pgrid)"/>
+  <rect x="2" y="2" width="1196" height="246" rx="6" fill="url(#panel)" stroke="#7a5a30" stroke-width="2"/>
+  <rect x="10" y="10" width="1180" height="230" rx="3" fill="url(#texture)" stroke="#d3ab63" stroke-opacity=".25"/>
+  <line x1="400" y1="28" x2="400" y2="222" stroke="#7a5a30"/>
+  <line x1="800" y1="28" x2="800" y2="222" stroke="#7a5a30"/>
 
-  <line x1="400" y1="30" x2="400" y2="210" stroke="#30363D" stroke-width="1"/>
-  <line x1="800" y1="30" x2="800" y2="210" stroke="#30363D" stroke-width="1"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <circle cx="200" cy="62" r="22" fill="#3f6b54" fill-opacity=".45" stroke="#d3ab63"/>
+    <text x="200" y="68" font-size="15" font-weight="700" fill="#e8c878">01</text>
+    <text x="200" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">REQUIREMENTS</text>
+    <text x="200" y="150" font-size="15" fill="#ece1c8">Understand the business problem</text>
+    <text x="200" y="176" font-size="15" fill="#c9bea4">before choosing the solution.</text>
 
-  <!-- Column 1: Architecture -->
-  <text x="200" y="56" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1" fill="#4FD1C5">01 · ARCHITECTURE</text>
-  <text x="200" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">Modular, scalable</text>
-  <text x="200" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">systems with clear</text>
-  <text x="200" y="156" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">separation of concerns</text>
+    <circle cx="600" cy="62" r="22" fill="#7c3f36" fill-opacity=".45" stroke="#d3ab63"/>
+    <text x="600" y="68" font-size="15" font-weight="700" fill="#e8c878">02</text>
+    <text x="600" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">SECURITY</text>
+    <text x="600" y="150" font-size="15" fill="#ece1c8">Enforce access at system</text>
+    <text x="600" y="176" font-size="15" fill="#c9bea4">boundaries, not only in the UI.</text>
 
-  <!-- Column 2: Security -->
-  <text x="600" y="56" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1" fill="#F6AD55">02 · SECURITY</text>
-  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">Security built in from</text>
-  <text x="600" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">the start — auth, access</text>
-  <text x="600" y="156" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">control, data protection</text>
-
-  <!-- Column 3: Maintainability -->
-  <text x="1000" y="56" text-anchor="middle" font-family="SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="1" fill="#68D391">03 · MAINTAINABILITY</text>
-  <text x="1000" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">Clean, documented code</text>
-  <text x="1000" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">that's easy to test,</text>
-  <text x="1000" y="156" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#E6EDF3">extend, and maintain</text>
+    <circle cx="1000" cy="62" r="22" fill="#3e6377" fill-opacity=".45" stroke="#d3ab63"/>
+    <text x="1000" y="68" font-size="15" font-weight="700" fill="#e8c878">03</text>
+    <text x="1000" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">VALIDATION</text>
+    <text x="1000" y="150" font-size="15" fill="#ece1c8">Treat tests and documentation</text>
+    <text x="1000" y="176" font-size="15" fill="#c9bea4">as part of delivery.</text>
+  </g>
 </svg>
