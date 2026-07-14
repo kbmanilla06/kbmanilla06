@@ -13,7 +13,7 @@ I build secure, documented, and testable full-stack applications with **React, T
 <div align="center">
   <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
   <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="https://img.shields.io/badge/LinkedIn-14100C?style=for-the-badge&logo=linkedin&logoColor=E8C878" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-button.svg" height="28" alt="LinkedIn" /></a>
   <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
   <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/Email-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
 </div>
@@ -123,7 +123,7 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 
 <div align="center">
   <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=linkedin&logoColor=E8C878" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-icon.svg" height="28" alt="LinkedIn" /></a>
   <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
   <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
   <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
