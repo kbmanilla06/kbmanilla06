@@ -11,9 +11,11 @@
 I build secure, documented, and testable full-stack applications with **React, TypeScript, Laravel, Python, and PostgreSQL**. My strongest work combines product requirements, role-based security, automated validation, and practical AI/ML workflows.
 
 <div align="center">
-
-[Portfolio](https://kbmanilla06githubio.vercel.app) · [TimeForge Case Study](https://kbmanilla06githubio.vercel.app/projects/timeforge) · [Résumé](https://kbmanilla06githubio.vercel.app/Khristopher_Ben_Manilla_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/)
-
+  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
+  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="https://img.shields.io/badge/LinkedIn-14100C?style=for-the-badge&logo=linkedin&logoColor=E8C878" alt="LinkedIn" /></a>
+  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
+  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/Email-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -34,7 +36,7 @@ I translate requirements into maintainable systems and use AI-assisted developme
 
 ## Flagship Project
 
-### [TimeForge](https://github.com/kbmanilla06/TimeForge) — Workforce Operations Platform
+### [All in Time](https://github.com/kbmanilla06/All-in-Time) — Workforce Operations Platform
 
 A full-stack workforce performance system covering time tracking, approval workflows, KPIs, payroll preparation, reporting, onboarding, protected attachments, and auditable workforce insights.
 
@@ -58,7 +60,8 @@ The current insight engine is deterministic and local. This keeps sensitive work
 
 **Stack:** `React` `TypeScript` `Laravel` `PHP` `PostgreSQL` `Docker` `GitHub Actions`
 
-[Read the engineering case study →](https://kbmanilla06githubio.vercel.app/projects/timeforge)
+<a href="https://github.com/kbmanilla06/All-in-Time"><img src="https://img.shields.io/badge/Source_Code-201A15?style=for-the-badge&logo=github&logoColor=E8C878" alt="All in Time source code" /></a>
+<a href="https://kbmanilla06.vercel.app/projects/all-in-time"><img src="https://img.shields.io/badge/Case_Study-3F6B54?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="All in Time engineering case study" /></a>
 
 <br />
 
@@ -68,6 +71,8 @@ An end-to-end machine-learning pipeline and Streamlit dashboard for identifying 
 
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Streamlit`
 
+<a href="https://github.com/kbmanilla06/customer-churn-prediction"><img src="https://img.shields.io/badge/Repository-201A15?style=flat-square&logo=github&logoColor=E8C878" alt="Customer Churn Prediction repository" /></a>
+
 <br />
 
 ### [NLTKBot](https://github.com/Jassim3nidad/NLTKBot)
@@ -76,9 +81,17 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 
 **Stack:** `Python` `NLTK` `Flask` `NLP`
 
+<a href="https://github.com/Jassim3nidad/NLTKBot"><img src="https://img.shields.io/badge/Repository-201A15?style=flat-square&logo=github&logoColor=E8C878" alt="NLTKBot repository" /></a>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Technical Toolkit
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,vite,laravel,php,python,postgres,docker,git,github,vercel&theme=dark&perline=12" alt="React, TypeScript, Next.js, Vite, Laravel, PHP, Python, PostgreSQL, Docker, Git, GitHub, and Vercel" />
+</div>
+
+<br />
 
 | Area | Tools and evidence |
 |---|---|
@@ -109,9 +122,13 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 ## Contact
 
 <div align="center">
+  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=linkedin&logoColor=E8C878" alt="LinkedIn" /></a>
+  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
+  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
+  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
 
-[Email](mailto:kbmanilla06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/) · [Portfolio](https://kbmanilla06githubio.vercel.app) · [GitHub](https://github.com/kbmanilla06)
-
+<br /><br />
 <sub>Open to software engineering, full-stack, AI/ML, and application-security opportunities.</sub>
 
 </div>
