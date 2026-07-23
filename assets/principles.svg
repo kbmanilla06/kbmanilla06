@@ -1,36 +1,39 @@
-<svg viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering principles: Requirements, Security, Validation">
+<svg viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Engineering principles</title>
+  <desc id="description">Requirements before implementation, security at system boundaries, and validation as delivery work.</desc>
   <defs>
     <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2a231d"/>
-      <stop offset="1" stop-color="#14100c"/>
+      <stop offset="0" stop-color="#141a22"/>
+      <stop offset="1" stop-color="#090c11"/>
     </linearGradient>
-    <pattern id="texture" width="38" height="38" patternUnits="userSpaceOnUse">
-      <path d="M0 19H38M19 0V38" stroke="#d3ab63" stroke-opacity=".025"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".025"/>
     </pattern>
   </defs>
-
-  <rect x="2" y="2" width="1196" height="246" rx="6" fill="url(#panel)" stroke="#7a5a30" stroke-width="2"/>
-  <rect x="10" y="10" width="1180" height="230" rx="3" fill="url(#texture)" stroke="#d3ab63" stroke-opacity=".25"/>
-  <line x1="400" y1="28" x2="400" y2="222" stroke="#7a5a30"/>
-  <line x1="800" y1="28" x2="800" y2="222" stroke="#7a5a30"/>
-
+  <rect x="1" y="1" width="1198" height="248" rx="12" fill="url(#panel)" stroke="#fff" stroke-opacity=".24"/>
+  <rect x="1" y="1" width="1198" height="248" rx="12" fill="url(#grid)"/>
+  <path d="M400 28v194M800 28v194" stroke="#fff" stroke-opacity=".14"/>
   <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <circle cx="200" cy="62" r="22" fill="#3f6b54" fill-opacity=".45" stroke="#d3ab63"/>
-    <text x="200" y="68" font-size="15" font-weight="700" fill="#e8c878">01</text>
-    <text x="200" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">REQUIREMENTS</text>
-    <text x="200" y="150" font-size="15" fill="#ece1c8">Understand the business problem</text>
-    <text x="200" y="176" font-size="15" fill="#c9bea4">before choosing the solution.</text>
-
-    <circle cx="600" cy="62" r="22" fill="#7c3f36" fill-opacity=".45" stroke="#d3ab63"/>
-    <text x="600" y="68" font-size="15" font-weight="700" fill="#e8c878">02</text>
-    <text x="600" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">SECURITY</text>
-    <text x="600" y="150" font-size="15" fill="#ece1c8">Enforce access at system</text>
-    <text x="600" y="176" font-size="15" fill="#c9bea4">boundaries, not only in the UI.</text>
-
-    <circle cx="1000" cy="62" r="22" fill="#3e6377" fill-opacity=".45" stroke="#d3ab63"/>
-    <text x="1000" y="68" font-size="15" font-weight="700" fill="#e8c878">03</text>
-    <text x="1000" y="111" font-family="Georgia, Times New Roman, serif" font-size="19" fill="#e8c878">VALIDATION</text>
-    <text x="1000" y="150" font-size="15" fill="#ece1c8">Treat tests and documentation</text>
-    <text x="1000" y="176" font-size="15" fill="#c9bea4">as part of delivery.</text>
+    <g transform="translate(200)">
+      <rect x="-22" y="40" width="44" height="44" rx="12" fill="#1b232d" stroke="#fff" stroke-opacity=".42"/>
+      <text y="68" font-size="13" font-weight="700" fill="#f7f8fa">01</text>
+      <text y="119" font-size="16" font-weight="700" letter-spacing="1.5" fill="#f7f8fa">REQUIREMENTS</text>
+      <text y="157" font-size="14" fill="#b8bec8">Understand the business problem</text>
+      <text y="181" font-size="14" fill="#969fac">before choosing the solution.</text>
+    </g>
+    <g transform="translate(600)">
+      <rect x="-22" y="40" width="44" height="44" rx="12" fill="#1b232d" stroke="#fff" stroke-opacity=".42"/>
+      <text y="68" font-size="13" font-weight="700" fill="#f7f8fa">02</text>
+      <text y="119" font-size="16" font-weight="700" letter-spacing="1.5" fill="#f7f8fa">SECURITY</text>
+      <text y="157" font-size="14" fill="#b8bec8">Enforce access at system</text>
+      <text y="181" font-size="14" fill="#969fac">boundaries, not only in the UI.</text>
+    </g>
+    <g transform="translate(1000)">
+      <rect x="-22" y="40" width="44" height="44" rx="12" fill="#1b232d" stroke="#fff" stroke-opacity=".42"/>
+      <text y="68" font-size="13" font-weight="700" fill="#f7f8fa">03</text>
+      <text y="119" font-size="16" font-weight="700" letter-spacing="1.5" fill="#f7f8fa">VALIDATION</text>
+      <text y="157" font-size="14" fill="#b8bec8">Treat tests and documentation</text>
+      <text y="181" font-size="14" fill="#969fac">as part of delivery.</text>
+    </g>
   </g>
 </svg>

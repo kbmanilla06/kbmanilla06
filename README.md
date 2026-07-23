@@ -11,11 +11,11 @@
 I build secure, documented, and testable full-stack applications with **React, TypeScript, Laravel, Python, and PostgreSQL**. My strongest work combines product requirements, role-based security, automated validation, and practical AI/ML workflows.
 
 <div align="center">
-  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
-  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
+  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090C11?style=for-the-badge&logo=vercel&logoColor=F7F8FA" alt="Portfolio" /></a>
+  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-button.svg" height="28" alt="LinkedIn" /></a>
-  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
-  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/Email-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
+  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-090C11?style=for-the-badge&logo=readthedocs&logoColor=F7F8FA" alt="Résumé" /></a>
+  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/Email-090C11?style=for-the-badge&logo=gmail&logoColor=F7F8FA" alt="Email" /></a>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -60,8 +60,8 @@ The current insight engine is deterministic and local. This keeps sensitive work
 
 **Stack:** `React` `TypeScript` `Laravel` `PHP` `PostgreSQL` `Docker` `GitHub Actions`
 
-<a href="https://github.com/kbmanilla06/All-in-Time"><img src="https://img.shields.io/badge/Source_Code-201A15?style=for-the-badge&logo=github&logoColor=E8C878" alt="All in Time source code" /></a>
-<a href="https://kbmanilla06.vercel.app/projects/all-in-time"><img src="https://img.shields.io/badge/Case_Study-3F6B54?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="All in Time engineering case study" /></a>
+<a href="https://github.com/kbmanilla06/All-in-Time"><img src="https://img.shields.io/badge/Source_Code-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="All in Time source code" /></a>
+<a href="https://kbmanilla06.vercel.app/projects/all-in-time"><img src="https://img.shields.io/badge/Case_Study-F7F8FA?style=for-the-badge&logo=vercel&logoColor=040609" alt="All in Time engineering case study" /></a>
 
 <br />
 
@@ -71,7 +71,7 @@ An end-to-end machine-learning pipeline and Streamlit dashboard for identifying 
 
 **Stack:** `Python` `Scikit-learn` `XGBoost` `Streamlit`
 
-<a href="https://github.com/kbmanilla06/customer-churn-prediction"><img src="https://img.shields.io/badge/Repository-201A15?style=flat-square&logo=github&logoColor=E8C878" alt="Customer Churn Prediction repository" /></a>
+<a href="https://github.com/kbmanilla06/customer-churn-prediction"><img src="https://img.shields.io/badge/Repository-090C11?style=flat-square&logo=github&logoColor=F7F8FA" alt="Customer Churn Prediction repository" /></a>
 
 <br />
 
@@ -81,7 +81,7 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 
 **Stack:** `Python` `NLTK` `Flask` `NLP`
 
-<a href="https://github.com/Jassim3nidad/NLTKBot"><img src="https://img.shields.io/badge/Repository-201A15?style=flat-square&logo=github&logoColor=E8C878" alt="NLTKBot repository" /></a>
+<a href="https://github.com/Jassim3nidad/NLTKBot"><img src="https://img.shields.io/badge/Repository-090C11?style=flat-square&logo=github&logoColor=F7F8FA" alt="NLTKBot repository" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -122,13 +122,16 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 ## Contact
 
 <div align="center">
-  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=gmail&logoColor=E8C878" alt="Email" /></a>
+  <a href="mailto:kbmanilla06@gmail.com"><img src="https://img.shields.io/badge/-090C11?style=for-the-badge&logo=gmail&logoColor=F7F8FA" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-icon.svg" height="28" alt="LinkedIn" /></a>
-  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=vercel&logoColor=E8C878" alt="Portfolio" /></a>
-  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=github&logoColor=E8C878" alt="GitHub" /></a>
-  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/-14100C?style=for-the-badge&logo=readthedocs&logoColor=E8C878" alt="Résumé" /></a>
+  <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/-090C11?style=for-the-badge&logo=vercel&logoColor=F7F8FA" alt="Portfolio" /></a>
+  <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="GitHub" /></a>
+  <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/-090C11?style=for-the-badge&logo=readthedocs&logoColor=F7F8FA" alt="Résumé" /></a>
 
 <br /><br />
 <sub>Open to software engineering, full-stack, AI/ML, and application-security opportunities.</sub>
+
+<br /><br />
+<sub>Visual system: <a href="https://github.com/kbmanilla06/WashDish-Design-Language">WashDish Design Language</a> · monochrome baseline</sub>
 
 </div>
