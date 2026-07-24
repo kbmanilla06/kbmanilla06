@@ -114,6 +114,44 @@ The current insight engine is deterministic and local. This keeps sensitive work
 
 <br />
 
+### [AegisAI NIDPS](https://github.com/kbmanilla06/AegisAI-NIDPS) — Defensive Intrusion Detection Platform
+
+A portfolio-oriented network intrusion detection system that normalizes authorized offline telemetry, applies deterministic detection rules, produces synthetic model and anomaly evidence, supports analyst workflows, and demonstrates prevention safely through simulation.
+
+| Engineering evidence | Verified result |
+|---|---|
+| Quality gates | **264 backend tests passed** at the final portfolio gate, with one documented timing-sensitive WebSocket flake |
+| Detection pipeline | Canonical flows from normalized JSONL, Zeek logs, Suricata events, and offline PCAP/PCAPNG |
+| Security controls | HttpOnly sessions, CSRF and Origin enforcement, centralized RBAC, throttling, audit, and retention policies |
+| ML evidence | Reproducible synthetic-only feature, split, training, parity, registry, and offline-scoring artifacts |
+| Operational architecture | FastAPI, Celery, PostgreSQL, Redis, React dashboard, Docker Compose, health checks, and hosted CI |
+| Safety boundary | No live capture, online inference, privileged networking, firewall adapter, or automatic blocking |
+
+<details>
+<summary><b>Detection design, evidence, and limitations</b></summary>
+<br />
+
+AegisAI combines versioned deterministic rules with bounded telemetry ingestion, stable alert fingerprints, deduplication, explainability, SOC correlation, monitoring, and simulation-only response workflows. Synthetic artifacts carry SHA-256 provenance and explicit false-capability flags so demonstration evidence cannot be mistaken for operational performance.
+
+The project is an academic and portfolio demonstration—not a production IPS or a claim of real-network detection quality. It uses no real or third-party dataset bytes, cannot activate models, and cannot modify firewall, packet, process, socket, namespace, or host state.
+
+</details>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-090C11?style=flat-square&logo=python&logoColor=F7F8FA" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-090C11?style=flat-square&logo=fastapi&logoColor=F7F8FA" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Celery-090C11?style=flat-square&logo=celery&logoColor=F7F8FA" alt="Celery" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090C11?style=flat-square&logo=postgresql&logoColor=F7F8FA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-090C11?style=flat-square&logo=redis&logoColor=F7F8FA" alt="Redis" />
+  <img src="https://img.shields.io/badge/Scikit--learn-090C11?style=flat-square&logo=scikitlearn&logoColor=F7F8FA" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/React-090C11?style=flat-square&logo=react&logoColor=F7F8FA" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-090C11?style=flat-square&logo=docker&logoColor=F7F8FA" alt="Docker" />
+</p>
+
+<a href="https://github.com/kbmanilla06/AegisAI-NIDPS"><img src="https://img.shields.io/badge/Source_Code-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="AegisAI NIDPS source code" /></a>
+
+<br />
+
 ### [Customer Churn Prediction](https://github.com/kbmanilla06/customer-churn-prediction)
 
 An end-to-end machine-learning pipeline and Streamlit dashboard for identifying telecom customers at risk of churn. SMOTE is applied inside stratified cross-validation to avoid data leakage, with Logistic Regression, Random Forest, and XGBoost compared using F1 and ROC-AUC.
@@ -155,10 +193,10 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 | Area | Tools and evidence |
 |---|---|
 | **Frontend** | React, TypeScript, Next.js, Vite, PWAs, offline sync, responsive UI, component testing |
-| **Backend** | NestJS, Laravel, PHP, REST APIs, WebSockets, policies, middleware, validation |
-| **Data** | PostgreSQL, PostGIS, Redis, IndexedDB, SQL, schema design, migrations, reporting queries |
+| **Backend** | NestJS, Laravel, FastAPI, Celery, PHP, REST APIs, WebSockets, policies, middleware, validation |
+| **Data** | PostgreSQL, PostGIS, Redis, IndexedDB, SQL, Parquet, schema design, migrations, reporting queries |
 | **Security** | Capability-based authorization, server-enforced RBAC, rate limiting, protected files, auditability |
-| **AI / ML** | Python, Scikit-learn, XGBoost, NLTK, reproducible evaluation |
+| **AI / ML** | Python, Scikit-learn, XGBoost, NLTK, synthetic evidence, reproducible evaluation, model provenance |
 | **Delivery** | Git, Docker Compose, GitHub Actions, Vercel, operational documentation |
 
 <img src="assets/divider.svg" width="100%" alt="" />
