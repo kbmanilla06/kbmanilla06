@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <sub>Fourth-Year BS Computer Science · Software Engineering Intern · Cavite, Philippines</sub>
+  <sub>Fourth-Year BS Computer Science · Project Coordinator · Cavite, Philippines</sub>
 </div>
 
 <br />
@@ -11,6 +11,8 @@
 I build secure, documented, and testable full-stack applications with **React, TypeScript, Laravel, Python, and PostgreSQL**. My strongest work combines product requirements, role-based security, automated validation, and practical AI/ML workflows.
 
 <div align="center">
+  <img src="assets/project-coordinator.svg" height="28" alt="Project Coordinator" />
+  <img src="https://img.shields.io/badge/Project_Coordinator-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="Project Coordinator" />
   <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090C11?style=for-the-badge&logo=vercel&logoColor=F7F8FA" alt="Portfolio" /></a>
   <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-button.svg" height="28" alt="LinkedIn" /></a>
@@ -26,7 +28,7 @@ I build secure, documented, and testable full-stack applications with **React, T
 |---|---|
 | **Primary focus** | Full-stack software engineering |
 | **Supporting strengths** | Application security · Applied AI/ML |
-| **Current role** | Software Engineering Intern at StartupLab Business Center & AI Consulting Services OPC |
+| **Current role** | **Project Coordinator** at StartupLab Business Center & AI Consulting Services OPC |
 | **Education** | BS Computer Science, Lyceum of the Philippines University–Cavite |
 | **Academic standing** | Dean’s List awardee for three consecutive academic years |
 
@@ -58,7 +60,15 @@ The current insight engine is deterministic and local. This keeps sensitive work
 
 </details>
 
-**Stack:** `React` `TypeScript` `Laravel` `PHP` `PostgreSQL` `Docker` `GitHub Actions`
+<p>
+  <img src="https://img.shields.io/badge/React-090C11?style=flat-square&logo=react&logoColor=F7F8FA" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-090C11?style=flat-square&logo=typescript&logoColor=F7F8FA" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Laravel-090C11?style=flat-square&logo=laravel&logoColor=F7F8FA" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-090C11?style=flat-square&logo=php&logoColor=F7F8FA" alt="PHP" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090C11?style=flat-square&logo=postgresql&logoColor=F7F8FA" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-090C11?style=flat-square&logo=docker&logoColor=F7F8FA" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-090C11?style=flat-square&logo=githubactions&logoColor=F7F8FA" alt="GitHub Actions" />
+</p>
 
 <a href="https://github.com/kbmanilla06/All-in-Time"><img src="https://img.shields.io/badge/Source_Code-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="All in Time source code" /></a>
 <a href="https://kbmanilla06.vercel.app/projects/all-in-time"><img src="https://img.shields.io/badge/Case_Study-F7F8FA?style=for-the-badge&logo=vercel&logoColor=040609" alt="All in Time engineering case study" /></a>
@@ -69,7 +79,12 @@ The current insight engine is deterministic and local. This keeps sensitive work
 
 An end-to-end machine-learning pipeline and Streamlit dashboard for identifying telecom customers at risk of churn. SMOTE is applied inside stratified cross-validation to avoid data leakage, with Logistic Regression, Random Forest, and XGBoost compared using F1 and ROC-AUC.
 
-**Stack:** `Python` `Scikit-learn` `XGBoost` `Streamlit`
+<p>
+  <img src="https://img.shields.io/badge/Python-090C11?style=flat-square&logo=python&logoColor=F7F8FA" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-090C11?style=flat-square&logo=scikitlearn&logoColor=F7F8FA" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-090C11?style=flat-square&logoColor=F7F8FA" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Streamlit-090C11?style=flat-square&logo=streamlit&logoColor=F7F8FA" alt="Streamlit" />
+</p>
 
 <a href="https://github.com/kbmanilla06/customer-churn-prediction"><img src="https://img.shields.io/badge/Repository-090C11?style=flat-square&logo=github&logoColor=F7F8FA" alt="Customer Churn Prediction repository" /></a>
 
@@ -79,7 +94,12 @@ An end-to-end machine-learning pipeline and Streamlit dashboard for identifying 
 
 A four-person academic NLP project combining preprocessing, fuzzy matching, sentiment analysis, keyword extraction, and a Flask API across web and command-line interfaces.
 
-**Stack:** `Python` `NLTK` `Flask` `NLP`
+<p>
+  <img src="https://img.shields.io/badge/Python-090C11?style=flat-square&logo=python&logoColor=F7F8FA" alt="Python" />
+  <img src="https://img.shields.io/badge/NLTK-090C11?style=flat-square&logoColor=F7F8FA" alt="NLTK" />
+  <img src="https://img.shields.io/badge/Flask-090C11?style=flat-square&logo=flask&logoColor=F7F8FA" alt="Flask" />
+  <img src="https://img.shields.io/badge/Natural_Language_Processing-090C11?style=flat-square&logoColor=F7F8FA" alt="Natural Language Processing" />
+</p>
 
 <a href="https://github.com/Jassim3nidad/NLTKBot"><img src="https://img.shields.io/badge/Repository-090C11?style=flat-square&logo=github&logoColor=F7F8FA" alt="NLTKBot repository" /></a>
 
