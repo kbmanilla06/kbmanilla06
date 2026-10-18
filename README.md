@@ -11,7 +11,7 @@
 Computer Science student and former **project manager intern** who ran **two software product sprints at the same time**. I also lead a four-person undergraduate thesis team on SMS scam detection and wrote its research manuscript. The software projects below show the technical side of my work.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Project_Manager_Intern-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="Project Manager Intern" />
+  <img src="https://img.shields.io/badge/4th_Year_CS_Student-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="4th Year CS Student" />
   <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090C11?style=for-the-badge&logo=vercel&logoColor=F7F8FA" alt="Portfolio" /></a>
   <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-button.svg" height="28" alt="LinkedIn" /></a>
