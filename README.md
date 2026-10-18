@@ -1,18 +1,17 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Khristopher Ben Manilla — Full-Stack Software Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Khristopher Ben Manilla — Computer Science Student · Project Management" width="100%" />
 </div>
 
 <div align="center">
-  <sub>Fourth-Year BS Computer Science · Project Coordinator · Cavite, Philippines</sub>
+  <sub>BS Computer Science · Graduating August 2027 · Cavite, Philippines</sub>
 </div>
 
 <br />
 
-I build secure, documented, and testable full-stack applications with **React, TypeScript, Next.js, NestJS, Laravel, Python, and PostgreSQL**. My strongest work combines product requirements, role-based security, automated validation, offline-first workflows, and practical AI/ML.
+Computer Science student and former **project manager intern** who ran **two software product sprints at the same time**. I also lead a four-person undergraduate thesis team on SMS scam detection and wrote its research manuscript. The software projects below show the technical side of my work.
 
 <div align="center">
-  <img src="assets/project-coordinator.svg" height="28" alt="Project Coordinator" />
-  <img src="https://img.shields.io/badge/Project_Coordinator-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="Project Coordinator" />
+  <img src="https://img.shields.io/badge/Project_Manager_Intern-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="Project Manager Intern" />
   <a href="https://kbmanilla06.vercel.app"><img src="https://img.shields.io/badge/Portfolio-090C11?style=for-the-badge&logo=vercel&logoColor=F7F8FA" alt="Portfolio" /></a>
   <a href="https://github.com/kbmanilla06"><img src="https://img.shields.io/badge/GitHub-090C11?style=for-the-badge&logo=github&logoColor=F7F8FA" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/khristopher-ben-manilla-b875181b6/"><img src="assets/linkedin-button.svg" height="28" alt="LinkedIn" /></a>
@@ -26,10 +25,11 @@ I build secure, documented, and testable full-stack applications with **React, T
 
 | | |
 |---|---|
-| **Primary focus** | Full-stack software engineering |
-| **Supporting strengths** | Application security · Applied AI/ML |
-| **Current role** | **Project Coordinator** at StartupLab Business Center & AI Consulting Services OPC |
-| **Education** | BS Computer Science, Lyceum of the Philippines University–Cavite |
+| **Primary focus** | Project management |
+| **Supporting strengths** | Software engineering · Applied AI/ML |
+| **Experience** | **Project Manager Intern** at StartupLab Business Center & AI Consulting Services OPC (Jun – Aug 2026) |
+| **Research** | Group leader, undergraduate thesis on SMS scam detection for Filipino/Taglish messages (A.Y. 2026–2027) |
+| **Education** | BS Computer Science, Lyceum of the Philippines University–Cavite (expected August 2027) |
 | **Academic standing** | Dean’s List awardee for three consecutive academic years |
 
 I translate requirements into maintainable systems and use AI-assisted development as an engineering tool—not a substitute for architecture, review, testing, or ownership.

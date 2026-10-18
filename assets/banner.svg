@@ -1,5 +1,5 @@
 <svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
-  <title id="title">Khristopher Ben Manilla — Full-Stack Software Engineer</title>
+  <title id="title">Khristopher Ben Manilla — Computer Science Student · Project Management</title>
   <desc id="description">A monochrome WashDish Design Language profile banner.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
@@ -31,14 +31,14 @@
     <circle cx="96" cy="96" r="4" fill="#f7f8fa"/>
   </g>
 
-  <text x="40" y="61" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#969fac">ENGINEERING PROFILE / 2026</text>
+  <text x="40" y="61" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#969fac">PROFILE / 2026</text>
   <text x="40" y="164" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.5" fill="#f7f8fa">KHRISTOPHER BEN MANILLA</text>
-  <text x="40" y="210" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#b8bec8">Full-Stack Software Engineer</text>
-  <text x="40" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#969fac">Secure systems  /  Automated testing  /  Practical AI &amp; ML</text>
+  <text x="40" y="210" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" fill="#b8bec8">Computer Science Student · Project Management</text>
+  <text x="40" y="252" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#969fac">Sprint management  /  Thesis research  /  Software projects</text>
 
   <g transform="translate(40 280)">
     <rect width="198" height="32" rx="8" fill="#f7f8fa"/>
     <text x="99" y="21" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#040609">OPEN TO OPPORTUNITIES</text>
-    <text x="218" y="21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#b8bec8">Cavite, Philippines · Fourth-Year BSCS</text>
+    <text x="218" y="21" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#b8bec8">Cavite, Philippines · Graduating Aug 2027</text>
   </g>
 </svg>
