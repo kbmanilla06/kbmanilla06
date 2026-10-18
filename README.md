@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Khristopher Ben Manilla — Computer Science Student · Project Management" width="100%" />
+  <img src="assets/banner.svg" alt="Khristopher Ben Manilla — 4th Year CS Student · Cybersecurity" width="100%" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <br />
 
-Computer Science student and former **project manager intern** who ran **two software product sprints at the same time**. I also lead a four-person undergraduate thesis team on SMS scam detection and wrote its research manuscript. The software projects below show the technical side of my work.
+4th year Computer Science student focused on **cybersecurity**. My security work includes **AegisAI NIDPS**, an intrusion detection and prevention simulation, and my undergraduate thesis on detecting **SMS scam (smishing) messages** in Filipino and Taglish, where I lead a four-person team. I completed the Cisco & Splunk Cybersecurity Defense Analyst Path, and from June to August 2026 I was a project manager intern at StartupLab.
 
 <div align="center">
   <img src="https://img.shields.io/badge/4th_Year_CS_Student-F7F8FA?style=for-the-badge&logoColor=040609" height="28" alt="4th Year CS Student" />
@@ -25,7 +25,7 @@ Computer Science student and former **project manager intern** who ran **two sof
 
 | | |
 |---|---|
-| **Primary focus** | Project management |
+| **Primary focus** | Cybersecurity |
 | **Supporting strengths** | Software engineering · Applied AI/ML |
 | **Experience** | **Project Manager Intern** at StartupLab Business Center & AI Consulting Services OPC (Jun – Aug 2026) |
 | **Research** | Group leader, undergraduate thesis on SMS scam detection for Filipino/Taglish messages (A.Y. 2026–2027) |
@@ -228,7 +228,7 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
   <a href="https://kbmanilla06.vercel.app/Khristopher_Ben_Manilla_Resume.pdf"><img src="https://img.shields.io/badge/-090C11?style=for-the-badge&logo=readthedocs&logoColor=F7F8FA" alt="Résumé" /></a>
 
 <br /><br />
-<sub>Open to software engineering, full-stack, AI/ML, and application-security opportunities.</sub>
+<sub>Open to cybersecurity, application-security, and secure software engineering opportunities.</sub>
 
 <br /><br />
 <sub>Visual system: <a href="https://github.com/kbmanilla06/WashDish-Design-Language">WashDish Design Language</a> · monochrome baseline</sub>
