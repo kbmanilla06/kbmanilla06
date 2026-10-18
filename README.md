@@ -203,6 +203,8 @@ A four-person academic NLP project combining preprocessing, fuzzy matching, sent
 
 ## Certifications & Development
 
+- **Certified Artificial Intelligence Professional (CAIP)** — EduExpert & East West International Educational Specialists Inc., October 2026
+- **Cybersecurity Defense Analyst Path** — Cisco Networking Academy & Splunk, August 2026
 - **Networking Basics** — Cisco Networking Academy, May 2026
 - **Introduction to Modern AI** — Cisco Networking Academy, February 2026
 - **Python Essentials 1 & 2** — Cisco Networking Academy, January & June 2024
